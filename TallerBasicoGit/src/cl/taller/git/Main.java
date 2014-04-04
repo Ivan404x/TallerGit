@@ -7,6 +7,7 @@ public class Main {
 		 System.out.println("segundo commit");
 		 System.out.println("Linea agregada por web modificada");
 		 System.out.println("Linea 2");
+		 System.out.println("Linea 2 web editada en el merge");
 	}
 
 
